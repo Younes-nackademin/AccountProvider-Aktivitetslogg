@@ -144,5 +144,3 @@
 #### Grupparbete och planering
 - Jag och gruppen använde **Jira** för att planera och hålla koll på våra uppgifter.
 - Vi samarbetade och såg till att allt blev klart i tid.
-
-

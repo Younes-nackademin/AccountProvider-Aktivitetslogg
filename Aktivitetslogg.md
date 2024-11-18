@@ -139,9 +139,6 @@
 
 
 
----
-
-
 # Aktivitetslogg: Vecka 44-46
 
 #### Grupparbete och planering
